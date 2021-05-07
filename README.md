@@ -1,2 +1,2 @@
 # softdesign
-Sample Codes
+Java codes - for testing only.
