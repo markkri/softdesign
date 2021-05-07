@@ -1,2 +1,3 @@
 # softdesign
-Java codes - for testing only.
+Java codes using NetBeans IDE.
+-- testing only --
